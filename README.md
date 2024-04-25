@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Gautam</h1>
 <h3 align="center">A Student who want to become Full Stack WEB Developer</h3>
-<video autoplay align ="center" width="320" height="240" controls>
-    <source src="bg.mp4" type="video/mp4"> </video>
+<p align ="center">
+<img  autoplay align ="center" width="320" height="240" src="bg_pic.gif"> </img>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akgautam8662&label=Profile%20views&color=0e75b6&style=flat" alt="akgautam8662" /> </p>
 
