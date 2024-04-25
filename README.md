@@ -1,7 +1,4 @@
-<style>
-    *{
-        background: #ff99ff;
-    }
+
 <h1 align="center">Hi 👋, I'm Ashish Kumar Gautam</h1>
 <h3 align="center">A Student who want to become Full Stack WEB Developer</h3>
 <p align ="center">
