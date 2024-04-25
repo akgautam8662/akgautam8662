@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Gautam</h1>
 <h3 align="center">A Student who want to become Full Stack WEB Developer</h3>
-<img align= "center" width="400"src="Black and Red Cool and Funky Gaming Logo.mp4">
+<img align= "center" width="400"src="https://github.com/akgautam8662/akgautam8662/blob/main/Black%20and%20Red%20Cool%20and%20Funky%20Gaming%20Logo.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akgautam8662&label=Profile%20views&color=0e75b6&style=flat" alt="akgautam8662" /> </p>
 
